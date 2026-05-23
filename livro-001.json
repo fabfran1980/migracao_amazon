@@ -1,0 +1,12 @@
+{
+  "contribution_sku-0-value": "LIVRO-TIAGO-2006",
+  "fulfillment_availability-0-quantity": "1",
+  "fulfillment_availability-0-lead_time_to_ship_max_days": "1",
+  "purchasable_offer[audience=ALL]-0-our_price-0-schedule-0-value_with_tax": "27.00",
+  "purchasable_offer[audience=ALL]-0-minimum_seller_allowed_price-0-schedule-0-value_with_tax": "20.00",
+  "purchasable_offer[audience=ALL]-0-maximum_seller_allowed_price-0-schedule-0-value_with_tax": "50.00",
+  "condition_type-0-value": "used_very_good",
+  "condition_note-0-value": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça.",
+  "item_weight-0-value": "300",
+  "item_weight-0-unit": "grams"
+}
